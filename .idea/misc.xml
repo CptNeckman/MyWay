@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidProjects/MyWay/app/src/main/res/drawable/background_button.xml" value="0.3651041666666667" />
+        <entry key="..\:/AndroidProjects/MyWay/app/src/main/res/drawable/background_button_false.xml" value="0.3651041666666667" />
+        <entry key="..\:/AndroidProjects/MyWay/app/src/main/res/drawable/background_button_favorite.xml" value="0.3651041666666667" />
+        <entry key="..\:/AndroidProjects/MyWay/app/src/main/res/drawable/background_button_settings.xml" value="0.3651041666666667" />
+        <entry key="..\:/AndroidProjects/MyWay/app/src/main/res/drawable/background_button_state.xml" value="0.3651041666666667" />
+        <entry key="..\:/AndroidProjects/MyWay/app/src/main/res/drawable/background_button_true.xml" value="0.3651041666666667" />
+        <entry key="..\:/AndroidProjects/MyWay/app/src/main/res/drawable/background_edit_name.xml" value="0.3651041666666667" />
+        <entry key="..\:/AndroidProjects/MyWay/app/src/main/res/layout/activity_main.xml" value="0.3489583333333333" />
+        <entry key="..\:/AndroidProjects/MyWay/app/src/main/res/layout/activity_welcome.xml" value="0.3489583333333333" />
+        <entry key="..\:/AndroidProjects/MyWay/app/src/main/res/layout/recycler_affcategory_item.xml" value="0.3489583333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

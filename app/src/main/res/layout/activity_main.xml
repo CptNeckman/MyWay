@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.MainActivity"
+    android:background="@drawable/background_main">
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recyclerAffCategory"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        android:layout_margin="6dp"
+        tools:listitem="@layout/recycler_affcategory_item"/>
+
+    <ImageButton
+        android:id="@+id/buttonFavorite"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        android:layout_margin="10dp"
+        android:background="@drawable/background_button_favorite"
+        android:src="@drawable/ic_favorite"
+        android:scaleType="centerInside"
+        android:padding="10dp"/>
+
+    <ImageButton
+        android:id="@+id/buttonSettings"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        android:layout_margin="10dp"
+        android:background="@drawable/background_button_settings"
+        android:src="@drawable/ic_settings"
+        android:scaleType="centerInside"
+        android:padding="10dp"/>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

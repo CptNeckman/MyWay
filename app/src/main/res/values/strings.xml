@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyWay</string>
+
+    <string name="editTextHint">Введите имя</string>
+    <string name="nameMinimalSize">(Минимальное кол-во символов - 1)</string>
+    <string name="letsStart">Вперед!</string>
+    <string name="categoryName">Имя Категории</string>
+</resources>
